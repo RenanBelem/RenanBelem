@@ -10,11 +10,11 @@ Atualmente, estou aprimorando minhas competências em áreas de tecnologia avan�
 
 * **Pós-Graduação em Inteligência Artificial Aplicada**
     * Universidade Federal do Paraná (UFPR), Curitiba
-    * [cite_start]Duração: Janeiro/2025 – Dezembro/2026 [cite: 22]
+    * Duração: Janeiro/2025 – Dezembro/2026
 * **Bacharelado em Ciência da Computação**
     * Pontifícia Universidade Católica do Paraná (PUCPR), Curitiba
-    * [cite_start]Duração: Janeiro/2021 – Dezembro/2025 [cite: 24]
-    * [cite_start]**Intercâmbio:** Universidade Católica Portuguesa, Porto (Set/2023 – Fev/2024) [cite: 25, 27]
+    * Duração: Janeiro/2021 – Dezembro/2025
+    * **Intercâmbio:** Universidade Católica Portuguesa, Porto (Set/2023 – Fev/2024) 
 
 ---
 
@@ -23,7 +23,7 @@ Atualmente, estou aprimorando minhas competências em áreas de tecnologia avan�
 Minha experiência combina projetos em TI, experiência do cliente e desenvolvimento de software:
 
 ### Lightera LatAm (Ex-Furukawa Electric LatAm)
-* [cite_start]**Cargo:** Estágio em TI - Soluções para Experiência do Cliente [cite: 31]
+* **Cargo:** Estágio em TI - Soluções para Experiência do Cliente
 * [cite_start]**Período:** Junho/2024 – Dezembro/2025 [cite: 31]
 * **Atividades Chave:**
     * [cite_start]Gestão de ferramentas de sustentação e *backlog*[cite: 32].
