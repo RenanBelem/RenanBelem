@@ -1,12 +1,10 @@
 ## Olá!👋
 
-Meu nome é Renan Belem Biavati. Sou um profissional em início de carreira, focado em **Ciência da Computação**, com ênfase em **Inteligência Artificial Aplicada** e **Aprendizado de Máquina**. Este repositório reflete meus projetos acadêmicos e experiências práticas em desenvolvimento de software.
+Meu nome é Renan Belem Biavati. Sou um profissional de tecnologia em início de carreira, focado em **Ciência da Computação**, com ênfase em sistemas e softwares de **Inteligência Artificial Aplicada** e **Aprendizado de Máquina**. Este repositório reflete meus projetos acadêmicos e experiências práticas em desenvolvimento de software.
 
 ---
 
 ## 🎓 Formação Acadêmica
-
-Atualmente, estou aprimorando minhas competências em áreas de tecnologia avançada:
 
 * **Pós-Graduação em Inteligência Artificial Aplicada**
     * Universidade Federal do Paraná (UFPR), Curitiba
@@ -20,8 +18,16 @@ Atualmente, estou aprimorando minhas competências em áreas de tecnologia avan�
 
 ## 💼 Experiência Profissional
 
-Minha experiência combina projetos em TI, experiência do cliente e desenvolvimento de software:
+Minha experiência combina projetos em TI, Experiência do Cliente, Desenvolvimento de Software e Inteligência Artificial:
 
+### Tribunal de Contas do Paraná (TCE-PR)
+* **Cargo:** Estágio de Pós-Graduação em Inteligência Artificial
+* **Período:** Fevereiro/2026 – Em andamento
+* **Atividades Chave:**
+   * Desenvolvimento e gestão de projetos de Inteligência Artificial
+   * Sistemas RAG, criação de agentes, integração de modelos, aplicações internas e bibliotecas de prompts
+   * Azure, Foundry, Google AI Studio, Openai, Copilot Studio
+   
 ### Lightera LatAm (Ex-Furukawa Electric LatAm)
 * **Cargo:** Estágio em TI - Soluções para Experiência do Cliente
 * **Período:** Junho/2024 – Dezembro/2025
@@ -40,31 +46,6 @@ Minha experiência combina projetos em TI, experiência do cliente e desenvolvim
 * **Cargo:** Estágio no setor comercial/administrativo
 * **Período:** Novembro/2022 – Setembro/2023
 * **Atividades:** Atendimento ao cliente, cadastro de produtos, pesquisas de mercado e organização de dados em Excel.
-
----
-
-## 🛠 Habilidades Técnicas
-
-Minhas principais competências técnicas incluem:
-
-### 💻 Linguagens de Programação
-* **Python** 
-* **SQL**
-* **Java**
-* **CSS/HTML/JS**
-
-### 🤖 Machine Learning & IA
-* Algoritmos **supervisionados e não supervisionados**.
-* Validação cruzada e engenharia de atributos.
-* Visão Computacional e Deep Learning.
-* Métricas de avaliação de modelos.
-
-### 📊 Dados e Estatística
-* Matemática/Estatística: Estatística descritiva/inferencial, probabilidade, álgebra linear e cálculo básico.
-* Manipulação, tratamento e visualização de dados.
-
-### 🗄 Outras Ferramentas
-* Pacote Office (Excel, Word, PowerPoint, Outlook/Teams).
 
 ---
 
