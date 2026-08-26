@@ -1,6 +1,6 @@
 ## Olá!👋
 
-Meu nome é Renan Belem Biavati. Sou um profissional de tecnologia em início de carreira, focado em **Ciência da Computação**, com ênfase em sistemas e softwares de **Inteligência Artificial Aplicada** e **Aprendizado de Máquina**. Este repositório reflete meus projetos acadêmicos e experiências práticas em desenvolvimento de software.
+Meu nome é Renan Belem Biavati. Sou um profissional de tecnologia em início de carreira, focado em **Ciência da Computação**, com ênfase em sistemas e softwares conectados à **Inteligência Artificial Aplicada** e ao **Aprendizado de Máquina**. Este repositório reflete meus projetos acadêmicos e experiências práticas em desenvolvimento de software.
 
 ---
 
