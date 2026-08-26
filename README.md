@@ -6,6 +6,9 @@ Meu nome é Renan Belem Biavati. Sou um profissional de tecnologia em início de
 
 ## 🎓 Formação Acadêmica
 
+* **Pós-Graduação em Engenharia de Software, DevOps e Transformação Digital**
+    * Pontifícia Universidade Católica (PUCPR), Curitiba
+    * Duração: Setembro/2026 – Dezembro/2027
 * **Pós-Graduação em Inteligência Artificial Aplicada**
     * Universidade Federal do Paraná (UFPR), Curitiba
     * Duração: Janeiro/2025 – Dezembro/2026
